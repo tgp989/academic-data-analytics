@@ -107,10 +107,6 @@ Incluye:
   - Análisis de sentimientos con TextBlob.
   - Comparación con otro método de análisis de sentimientos.
 
-- **Taller 4 – Extracción de información web**
-  - Obtención de información desde Wikipedia.
-  - Extracción y almacenamiento de tablas mediante Python.
-
 - **Ejercicio de clustering – EastWest Airlines**
   - Segmentación de pasajeros.
   - Identificación de grupos con características similares.
