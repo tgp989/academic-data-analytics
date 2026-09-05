@@ -161,8 +161,6 @@ Los trabajos incluidos en este repositorio fueron desarrollados utilizando difer
 ### Procesamiento de lenguaje natural
 
 - **TextBlob**
-- **BeautifulSoup**
-- **Requests**
 
 ### Entorno
 
@@ -182,7 +180,8 @@ academic-data-analytics/
 │   ├── Reto 1.ipynb
 │   ├── Reto 2.ipynb
 │   ├── Reto 3.ipynb
-│   └── Reto 5.ipynb
+│   ├── Reto 5.ipynb
+│   └── data/
 │
 ├── supervised-learning/
 │   ├── Parcial_1.ipynb
@@ -190,12 +189,13 @@ academic-data-analytics/
 │   ├── Taller real estate.ipynb
 │   ├── Taller1.ipynb
 │   ├── Taller_RL.ipynb
-│   └── Taller_redes_neuronales.ipynb
+│   ├── Taller_redes_neuronales.ipynb
+│   └── data/
 │
 └── unsupervised-learning/
     ├── Taller_parcial_2.ipynb
     ├── Taller_parcial_Santiago_Giraldo.ipynb
     ├── Taller analisis de sentimientos.ipynb
-    ├── Taller 4.ipynb
     ├── Ejercicio.ipynb
-    └── Taller 1 - Analisis descriptivo.ipynb
+    ├── Taller 1 - Analisis descriptivo.ipynb
+    └── data/
